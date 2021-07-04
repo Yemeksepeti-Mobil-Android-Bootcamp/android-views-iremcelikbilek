@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AndroidViews</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log in</string>
+    <string name="skip">Skip</string>
+    <string name="jasper_national_park">Jasper National Park</string>
+    <string name="location">Alberta, Canada</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="hotel">36 Hotels</string>
+    <string name="restaurants_count">145 Restaurants</string>
+    <string name="distance">34 Km from here</string>
+    <string name="btn_text">Book Flight for My Trip</string>
+    <string name="title">Exceptional Urban\nClothings</string>
+</resources>
